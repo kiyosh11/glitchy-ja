@@ -45,5 +45,6 @@ adds dark scanlines
 - `img`: image element
 - `gap`: pixels between lines (default: 4)
 
+🦋 i made gpt make it as cleaner as possible so i hope its clear lol 🚀
 ## license
 MIT
